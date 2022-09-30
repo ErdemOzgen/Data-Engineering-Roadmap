@@ -141,3 +141,11 @@ A couple of notes:
 
 * RabbitMQ
 * Apache ActiveMQ
+
+## Monitoring Datapipelines
+
+* Prometheus
+* Datadog
+* Sentry
+
+
