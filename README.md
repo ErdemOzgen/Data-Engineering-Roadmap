@@ -99,5 +99,45 @@ A couple of notes:
     * Redis
     * Memcached
     * Amazon DynamoDB
-    
 
+
+## Datawarehouses
+
+* Snowflake
+* Amazon Redshift
+* Apache Hive
+* Google BigQuery
+* ClickHouse
+
+## Object storage
+
+* AWS S3
+* Google Cloud Storage
+
+## Cluster Computing Fundamentals
+
+* Apache Hadoop
+* HDFS
+* MapReduce
+* Lambda & Kappa Architecture
+* Managed Hadoop
+
+## Data Processing
+
+* Batch
+    * Apache Pig
+    * Data Build Tool
+
+* Stream
+    * Apache Kafka
+    * Apache Storm
+
+* Hybrid
+    * Apache Spark
+    * Apache Beam
+    * Apache Flink
+
+## Messaging
+
+* RabbitMQ
+* Apache ActiveMQ
