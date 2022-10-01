@@ -148,4 +148,13 @@ A couple of notes:
 * Datadog
 * Sentry
 
+## CI/CD and Virtualization
+
+* Ansible
+* Jenkins
+* Docker
+* Kubernetes
+* Terraform
+* Aws CDK
+
 
