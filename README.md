@@ -165,7 +165,15 @@ A couple of notes:
 * Tableau
 * IBM Power BI
 
-## Machine Learning and Deep Learning
+## Machine Learning and Deep Learning Tools
+* Math
+* Statistics and Probability
+* Pandas
+* NumPy
+* Tensorflow
+* Keras
+* Pytorch
+* Scikit-learn
 
 
 
