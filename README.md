@@ -157,7 +157,15 @@ A couple of notes:
 * Terraform
 * Aws CDK
 
+## Data Visualization
+
+* Jupyter Notebook
+* Looker
+* Grafana
+* Tableau
+
 ## Machine Learning and Deep Learning
+
 
 
 ## MLOPS tools
