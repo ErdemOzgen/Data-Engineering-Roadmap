@@ -157,4 +157,13 @@ A couple of notes:
 * Terraform
 * Aws CDK
 
+## Machine Learning and Deep Learning
+
+
+## MLOPS tools
+
+* Tensorflow Extended
+* Kubeflow
+* Amazon Sagamaker
+* MLflow
 
