@@ -225,16 +225,3 @@ A couple of notes:
 * Google Cloud
 * Azure
 
-
-## MLOPS tools
-
-* Tensorflow Extended
-* Kubeflow
-* Amazon Sagamaker
-* MLflow
-
-## Cloud 
-
-* AWS
-* Google Cloud
-* Azure
