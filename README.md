@@ -371,42 +371,43 @@ A couple of notes:
 * Keras
 * Pytorch
 * Scikit-learn
-#### Data Science Resources
-- :books: [DPhi-Data Science Courses](https://dphi.tech/)
-- :books: [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
-- :bulb: [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
-- :books: [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-- :video_camera: [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
-- :bulb: [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
-- :books: [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
-- :books: [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
----
+  * #### Data Science Resources
+  - :books: [DPhi-Data Science Courses](https://dphi.tech/)
+  - :books: [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
+  - :bulb: [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
+  - :books: [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+  - :video_camera: [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
+  - :bulb: [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
+  - :books: [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
+  - :books: [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
+  
 	
-#### Machine Learning Resources
-- :books: [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-- :books: [Andrew Ng's Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
-- :books: [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-- :books: [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-- :books: [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
-- :books: [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
-- :books: [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)
-- :bulb: [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)
-- :books: [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
-- :books: [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
-- :bulb: [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
-- :green_book: [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
-- :bulb: [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
-- :books: [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
-- :books: [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
-- :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
-**[⬆ Back to Index](#content)**
-##### Deep Learning Resources
-- :books: [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
-- :green_book: [Convolutional networks CS231n](https://cs231n.github.io/convolutional-networks/)
-- :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
-- :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
-- :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
-- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+  * #### Machine Learning Resources
+  - :books: [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+  - :books: [Andrew Ng's Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
+  - :books: [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+  - :books: [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+  - :books: [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+  - :books: [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
+  - :books: [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)
+  - :bulb: [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)
+  - :books: [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+  - :books: [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
+  - :bulb: [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
+  - :green_book: [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+  - :bulb: [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+  - :books: [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+  - :books: [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
+  - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
+
+
+  * ##### Deep Learning Resources
+  - :books: [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
+  - :green_book: [Convolutional networks CS231n](https://cs231n.github.io/convolutional-networks/)
+  - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
+  - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+  - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+  - :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
 
 
 ## MLOPS tools
