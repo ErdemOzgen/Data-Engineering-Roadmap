@@ -61,6 +61,8 @@ A couple of notes:
 * Unit Testing
 * Integration testing
 * Functional testing
+* [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)
+* [The Art of Software Testing](https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/1118031962)
 
 ## Database Fundamentals
 
