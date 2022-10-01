@@ -163,6 +163,7 @@ A couple of notes:
 * Looker
 * Grafana
 * Tableau
+* IBM Power BI
 
 ## Machine Learning and Deep Learning
 
@@ -175,3 +176,8 @@ A couple of notes:
 * Amazon Sagamaker
 * MLflow
 
+## Cloud 
+
+* AWS
+* Google Cloud
+* Azure
