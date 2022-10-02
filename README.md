@@ -148,8 +148,8 @@ A couple of notes:
 
 ## Object storage
 
-* AWS S3
-* Google Cloud Storage
+* [AWS S3](https://aws.amazon.com/s3/)
+* [Google Cloud Storage](https://cloud.google.com/storage)
 
 ## Datawarehouses
 
