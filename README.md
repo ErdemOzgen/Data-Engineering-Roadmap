@@ -101,21 +101,21 @@ A couple of notes:
 ## Non-Relational Databases
 
 * Document
-    * MongoDB
-    * Elasticsearch
-    * Apache CouchDB
-    * Apache CosmosDB
+    * [MongoDB](https://www.mongodb.com/)
+    * [Elasticsearch](https://www.elastic.co/)
+    * [Apache CouchDB](https://couchdb.apache.org/)
+    * [Azure CosmosDB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
 * Wide Column
-    * Apache Cassandra
-    * Apache HBase
-    * Google Bigtable
+    * [Apache Cassandra](https://cassandra.apache.org/_/index.html)
+    * [Apache HBase](https://hbase.apache.org/)
+    * [Google Bigtable](https://cloud.google.com/bigtable)
 * Graph
-    * Neo4j
-    * Amazon Neptune
+    * [Neo4j](https://neo4j.com/)
+    * [Amazon Neptune](https://aws.amazon.com/neptune/)
 * Key-Value
-    * Redis
-    * Memcached
-    * Amazon DynamoDB
+    * [Redis](https://redis.io/)
+    * [Memcached](https://memcached.org/)
+    * [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 
 ## Data Processing
 
