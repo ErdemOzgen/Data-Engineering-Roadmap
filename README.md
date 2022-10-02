@@ -153,11 +153,11 @@ A couple of notes:
 
 ## Datawarehouses
 
-* Snowflake
-* Amazon Redshift
-* Apache Hive
-* Google BigQuery
-* ClickHouse
+* [Snowflake](https://www.snowflake.com/en/)
+* [Amazon Redshift](https://aws.amazon.com/redshift/)
+* [Apache Hive](https://hive.apache.org/)
+* [Google BigQuery](https://cloud.google.com/bigquery)
+* [ClickHouse](https://github.com/ClickHouse/ClickHouse)
 
 
 
