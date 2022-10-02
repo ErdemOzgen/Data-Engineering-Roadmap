@@ -64,6 +64,16 @@ A couple of notes:
 * [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)
 * [The Art of Software Testing](https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/1118031962)
 
+
+## CI/CD and Virtualization
+
+* Ansible
+* Jenkins
+* Docker
+* Kubernetes
+* Terraform
+* Aws CDK
+
 ## Database Fundamentals
 
 * [SQL](#sql)
@@ -100,28 +110,6 @@ A couple of notes:
     * Memcached
     * Amazon DynamoDB
 
-
-## Datawarehouses
-
-* Snowflake
-* Amazon Redshift
-* Apache Hive
-* Google BigQuery
-* ClickHouse
-
-## Object storage
-
-* AWS S3
-* Google Cloud Storage
-
-## Cluster Computing Fundamentals
-
-* Apache Hadoop
-* HDFS
-* MapReduce
-* Lambda & Kappa Architecture
-* Managed Hadoop
-
 ## Data Processing
 
 * Batch
@@ -142,20 +130,37 @@ A couple of notes:
 * RabbitMQ
 * Apache ActiveMQ
 
+## Cluster Computing Fundamentals
+
+* Apache Hadoop
+* HDFS
+* MapReduce
+* Lambda & Kappa Architecture
+* Managed Hadoop
+
+
+## Object storage
+
+* AWS S3
+* Google Cloud Storage
+
+## Datawarehouses
+
+* Snowflake
+* Amazon Redshift
+* Apache Hive
+* Google BigQuery
+* ClickHouse
+
+
+
 ## Monitoring Datapipelines
 
 * Prometheus
 * Datadog
 * Sentry
 
-## CI/CD and Virtualization
 
-* Ansible
-* Jenkins
-* Docker
-* Kubernetes
-* Terraform
-* Aws CDK
 
 ## Data Visualization
 
