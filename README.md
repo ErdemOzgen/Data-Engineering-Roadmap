@@ -134,8 +134,8 @@ A couple of notes:
 
 ## Messaging
 
-* RabbitMQ
-* Apache ActiveMQ
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Apache ActiveMQ](https://activemq.apache.org/)
 
 ## Cluster Computing Fundamentals
 
