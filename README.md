@@ -93,10 +93,10 @@ A couple of notes:
 
 ## Relational Database
 
-* MySQL
-* PostgreSQL
-* MariaDB
-* Amazon Aurora
+* [MySQL](https://www.mysql.com/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [MariaDB](https://mariadb.org/)
+* [Amazon Aurora](https://aws.amazon.com/rds/aurora/)
 
 ## Non-Relational Databases
 
