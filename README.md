@@ -6,10 +6,10 @@ If you like or are using this project to learn or start your solution, please gi
 ![Roadmap](./DataEngRoadmap.png)
 
 ## Programming Languages
-* [Python](https://github.com/ErdemOzgen/Python-developer-roadmap) 
-* [Java](https://github.com/s4kibs4mi/java-developer-roadmap)
-* [Scala](https://docs.scala-lang.org/)
-* [Golang](https://github.com/Alikhll/golang-developer-roadmap)
+* [Python Roadmap](https://github.com/ErdemOzgen/Python-developer-roadmap) 
+* [Java Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
+* [Scala Docs](https://docs.scala-lang.org/)
+* [Golang Roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ## Learn Linux
 
