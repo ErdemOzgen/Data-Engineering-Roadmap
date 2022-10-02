@@ -120,17 +120,17 @@ A couple of notes:
 ## Data Processing
 
 * Batch
-    * Apache Pig
-    * Data Build Tool
+    * [Apache Pig](https://pig.apache.org/)
+    * [Data Build Tool](https://www.getdbt.com/)
 
 * Stream
-    * Apache Kafka
-    * Apache Storm
+    * [Apache Kafka](https://kafka.apache.org/)
+    * [Apache Storm](https://storm.apache.org/)
 
 * Hybrid
-    * Apache Spark
-    * Apache Beam
-    * Apache Flink
+    * [Apache Spark](https://spark.apache.org/)
+    * [Apache Beam](https://beam.apache.org/)
+    * [Apache Flink](https://flink.apache.org/)
 
 ## Messaging
 
