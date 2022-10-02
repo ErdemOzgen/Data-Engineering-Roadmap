@@ -74,12 +74,12 @@ A couple of notes:
 
 ## CI/CD and Virtualization
 
-* Ansible
-* Jenkins
-* Docker
-* Kubernetes
-* Terraform
-* Aws CDK
+* [Ansible](https://www.ansible.com/)
+* [Jenkins](https://www.jenkins.io/)
+* [Docker](https://www.docker.com/)
+* [Kubernetes](https://kubernetes.io/)
+* [Terraform](https://www.terraform.io/)
+* [Aws CDK](https://aws.amazon.com/cdk/)
 
 ## Database Fundamentals
 
