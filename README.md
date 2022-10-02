@@ -139,11 +139,11 @@ A couple of notes:
 
 ## Cluster Computing Fundamentals
 
-* Apache Hadoop
-* HDFS
-* MapReduce
-* Lambda & Kappa Architecture
-* Managed Hadoop
+* [Apache Hadoop](https://hadoop.apache.org/)
+* [HDFS](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
+* [MapReduce](https://www.ibm.com/topics/mapreduce)
+* [Lambda & Kappa Architecture](https://towardsdatascience.com/a-brief-introduction-to-two-data-processing-architectures-lambda-and-kappa-for-big-data-4f35c28005bb)
+* [Managed Hadoop](https://aws.amazon.com/emr/features/hadoop/)
 
 
 ## Object storage
