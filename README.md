@@ -171,22 +171,22 @@ A couple of notes:
 
 ## Data Visualization
 
-* Jupyter Notebook
-* Looker
-* Grafana
-* Tableau
-* IBM Power BI
+* [Jupyter Notebook](https://jupyter.org/)
+* [Looker](https://www.looker.com/)
+* [Grafana](https://grafana.com/)
+* [Tableau](https://www.tableau.com/)
+
 
 ## Machine Learning and Deep Learning Tools
 
 * Math
 * Statistics and Probability
-* Pandas
-* NumPy
-* Tensorflow
-* Keras
-* Pytorch
-* Scikit-learn
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+* [Pytorch](https://pytorch.org/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
   * #### Data Science Resources
   - :books: [DPhi-Data Science Courses](https://dphi.tech/)
   - :books: [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
