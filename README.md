@@ -1,3 +1,10 @@
+## Disclaimer
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+## Give a Star! :star:
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+## Roadmap
+![Roadmap](./DataEngRoadmap.png)
+
 ## Programming Languages
 * [Python](https://github.com/ErdemOzgen/Python-developer-roadmap) 
 * [Java](https://github.com/s4kibs4mi/java-developer-roadmap)
