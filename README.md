@@ -228,16 +228,16 @@ A couple of notes:
 
 ## MLOPS tools
 
-* Tensorflow Extended
-* Kubeflow
-* Amazon Sagamaker
-* MLflow
+* [Tensorflow Extended](https://www.tensorflow.org/tfx)
+* [Kubeflow](https://www.kubeflow.org/)
+* [Amazon Sagamaker](https://aws.amazon.com/sagemaker/)
+* [MLflow](https://mlflow.org/)
 
 ## Cloud 
 
-* AWS
-* Google Cloud
-* Azure
+* [AWS](https://aws.amazon.com/)
+* [Google Cloud](https://cloud.google.com/)
+* [Azure](https://azure.microsoft.com/en-us/)
 
 	
 ## Wrap Up
