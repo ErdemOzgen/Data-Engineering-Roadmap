@@ -163,9 +163,9 @@ A couple of notes:
 
 ## Monitoring Datapipelines
 
-* Prometheus
-* Datadog
-* Sentry
+* [Prometheus](https://prometheus.io/)
+* [Datadog](https://www.datadoghq.com/)
+* [Sentry](https://sentry.io/welcome/)
 
 
 
