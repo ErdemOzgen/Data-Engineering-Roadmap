@@ -197,6 +197,7 @@ A couple of notes:
   - :bulb: [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
   - :books: [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
   - :books: [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
+  - :books: [Data Science and Business Analytics](https://www.scaler.com/blog/category/data-science-business-analytics/)
   
 	
   * #### Machine Learning Resources
