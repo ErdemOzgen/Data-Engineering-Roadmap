@@ -161,7 +161,7 @@ A couple of notes:
 
 
 
-## Monitoring Datapipelines
+## Monitoring Data pipelines
 
 * [Prometheus](https://prometheus.io/)
 * [Datadog](https://www.datadoghq.com/)
@@ -197,6 +197,7 @@ A couple of notes:
   - :bulb: [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
   - :books: [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
   - :books: [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
+  - :bulb: [Introduction to Data Science](https://www.appliedaicourse.com/blog/data-science/)
   
 	
   * #### Machine Learning Resources
