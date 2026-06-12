@@ -62,6 +62,8 @@ A couple of notes:
 4. [PostgreSQL Exercises](http://pgexercises.com/index.html)
   "This site was born when I noticed that there's a load of material out there to help people learn about SQL, but not a great deal to make it easy to learn by doing. PGExercises provides a series of questions and explanations built on a single, simple dataset. It's designed for use as a partner to a good book or Postgres' excellent documentation.
   The exercises on this site range from simple select and where clauses, through joins and case statements, and on to aggregations, window functions, and recursive queries. Most people who aren't already pros should find something to test themselves with."
+5. [DataDriven SQL Practice Problems](https://datadriven.io/sql-practice-problems)
+  Free SQL interview practice problems that run directly in the browser, no setup or signup required. Problems are drawn from real data engineering interviews and cover joins, aggregations, and window functions.
 
 ## Testing 
 
