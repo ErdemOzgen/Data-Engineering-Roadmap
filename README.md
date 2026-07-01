@@ -5,6 +5,10 @@ If you like or are using this project to learn or start your solution, please gi
 ## Roadmap
 ![Roadmap](./DataEngRoadmap.png)
 
+## 2026 Production Roadmap
+
+For a modern, production-focused learning and implementation plan, see [Data Engineering Roadmap 2026](./DATA_ENGINEERING_ROADMAP_2026.md).
+
 ## Programming Languages
 * [Python Roadmap](https://github.com/ErdemOzgen/Python-developer-roadmap) 
 * [Java Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
